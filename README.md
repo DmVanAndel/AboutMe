@@ -8,7 +8,11 @@ Previously, I successfully completed the HBO program in Python Programming at th
 
 I am a creative individual who frequently thinks outside the box and possesses strong analytical skills. I prefer working in an organized and structured manner.
 
+
+
 ------ Dutch ------
+
+
 
 Mijn naam is Dario. Ik volg via newskool (www.newskool.nl) een Development Traineeship. Daarom heb ik interesse in projecten op basis van detachering (https://www.newskool.nl/vacature-traineeship/). Ik volg de HBO-bachelor Informatica (Software engineering) via het de LOI.
 
